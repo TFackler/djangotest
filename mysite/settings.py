@@ -25,7 +25,7 @@ SECRET_KEY = 'z++4kl&2iio&p%ecc!-ke+ctazsg5^ptz2c*ty9peez%cy+!p_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonany']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonany', 'http://tfackler.pythonanywhere.com/']
 
 
 # Application definition
